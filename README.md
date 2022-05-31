@@ -1,5 +1,5 @@
 # Tekwoo Lee
-- Blog : [Tech Blog](https://0teklee.github.io/](https://velog.io/@leetekwoo)
+- Blog : [Tech Blog](https://velog.io/@leetekwoo)
 
 # Resume
 
