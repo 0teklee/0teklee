@@ -29,13 +29,13 @@
 - 블록체인 포털 서비스 기업 코인고스트에서 한달동안 근무하였습니다.
 
 ## First Internship Assignment
-### 코인고스트 회원가입, 리스트, 디테일
-### [첫번째 과제 깃허브 링크](https://github.com/0teklee/Internship-project-01)
+#### [첫번째 과제 깃허브 링크](https://github.com/0teklee/Internship-project-01)
+#### 코인고스트 회원가입, 리스트, 디테일
 ### <img src="https://img.shields.io/badge/React-61dafb?style=flatsquare&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flatsquare&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flatsquare&logo=Next.js&logoColor=white">
 
 ## Second Internship Assignment
-### 커스텀 비디오 플레이어
-### [두번째 과제 깃허브 링크](https://github.com/0teklee/CustomVideoPlayer)
+#### [두번째 과제 깃허브 링크](https://github.com/0teklee/CustomVideoPlayer)
+#### 커스텀 비디오 플레이어
 ### <img src="https://img.shields.io/badge/React-61dafb?style=flatsquare&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flatsquare&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flatsquare&logo=Next.js&logoColor=white">
 
 
