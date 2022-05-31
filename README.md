@@ -3,6 +3,9 @@
 
 # Resume
 
+### [이력서 resume](https://short-agreement-80a.notion.site/973d2eecb6de4b739edd55f1ed689efc)
+### [프로젝트 회고 project review](https://short-agreement-80a.notion.site/a804940141cb48e68ed85c1fc7f70f00)
+
 # Project
 
 ## Team Project
