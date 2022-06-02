@@ -3,7 +3,7 @@
 
 # Resume
 
-### [이력서 resume](https://short-agreement-80a.notion.site/973d2eecb6de4b739edd55f1ed689efc)
+### [이력서 resume](https://leetekwoo-resume.vercel.app/)
 ### [프로젝트 회고 project review](https://short-agreement-80a.notion.site/74528e1dc98441e38a9576418c928bf3)
 
 # Team Project
