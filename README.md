@@ -1,8 +1,5 @@
 # Tekwoo Lee
-- Blog : [Tech Blog](https://velog.io/@leetekwoo)
-
-# Resume
-
+### [블로그 Tech Blog](https://velog.io/@leetekwoo)
 ### [이력서 resume](https://leetekwoo-resume.vercel.app/)
 ### [프로젝트 회고 project review](https://teklog-0teklee.vercel.app/)
 
