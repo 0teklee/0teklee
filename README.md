@@ -2,6 +2,10 @@
 
 <img src="https://asset.leetekwoo.com/art/bob.svg" width="300px">
 
+
+# Guide 
+
+
 | Websites       | Links                                                |
 | ------------------------ | --------------------------------------------------------------------------------------------------------- |
 | **Tech Blog**        | https://blog.leetekwoo.com                                                      |
@@ -14,6 +18,3 @@
 | **Auto Resume**        | https://github.com/0teklee/auto-resume                                                      |
 | **Teklog**        | https://github.com/0teklee/blog                                                      |
 | **Commenti (private)**        | https://commenti.co                                                      |
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/0teklee)
