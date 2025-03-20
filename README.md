@@ -15,6 +15,7 @@
 
 | Projects       | Repo                                                |
 | ------------------------ | --------------------------------------------------------------------------------------------------------- |
+| **Pattern Recognition**  (WIP)      | https://github.com/0teklee/pattern-recognition                                                   |
 | **Auto Resume**        | https://github.com/0teklee/auto-resume                                                      |
 | **Teklog**        | https://github.com/0teklee/blog                                                      |
 | **Commenti (private)**        | https://commenti.co                                                      |
