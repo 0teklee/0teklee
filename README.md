@@ -1,2 +1,1 @@
-https://leetekwoo.com <br>
-mail@leetekwoo.com
+https://leetekwoo.com
